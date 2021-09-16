@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:25
+msgid "Access Key"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-single-product-mintroute.php:50
+msgid "Account ID"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:49
+msgid "Add More Fields"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-single-product-mintroute.php:63
+msgid "Available for reservation (pre-order) "
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-single-product-mintroute.php:33
+msgid "Choose Denomination"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:57
+#: class/class-wp-add-product-type-mintroute.php:103
+msgid "Denimonation"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:58
+#: class/class-wp-add-product-type-mintroute.php:109
+msgid "Denimonation ID"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:59
+#: class/class-wp-add-product-type-mintroute.php:115
+msgid "Denimonation Price"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-single-product-mintroute.php:38
+msgid "Domenations"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:3
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: class/class-wp-add-product-type-mintroute.php:1
+msgid "Mintroute Card"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-show-logs.php:2
+msgid "Mintroute Logs"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-show-logs.php:10
+msgid "Mintroute Test Api"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:39
+msgid "Mode"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-single-product-mintroute.php:69
+msgid "Not Available for reservation (pre-order) "
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:18
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-single-product-mintroute.php:56
+msgid "Please write the Account of your Game account . The account must be global."
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:43
+msgid "Production"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-show-logs.php:6
+msgid "Reset Logs"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:57
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:32
+msgid "Secret Key"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:42
+msgid "Test"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:49
+msgid "Url"
+msgstr ""
+
+#. Text in echo
+#: templates/wp-mintoute-setting-page.php:11
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:60
+msgid "action"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:51
+msgid "avialable"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:121
+msgid "clear"
+msgstr ""
+
+#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:52
+msgid "not avialable"
+msgstr ""
