@@ -1,147 +1,207 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-16 14:28+0000\n"
+"PO-Revision-Date: 2021-09-16 14:44+0000\n"
+"Last-Translator: admincha7n\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.6.5"
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:25
 msgid "Access Key"
 msgstr ""
 
-#. Text in echo
-#: class/class-wp-single-product-mintroute.php:50
+#: class/class-wp-single-product-mintroute.php:102
+#: class/class-wp-single-product-mintroute.php:118
+msgid "Account Email"
+msgstr "الايميل الخاص بحسابك فى اللعبة"
+
+#: class/class-wp-mintroute-order-complete.php:73
+#: class/class-wp-single-product-mintroute.php:86
 msgid "Account ID"
-msgstr ""
+msgstr "رقم الحساب"
 
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:49
+#: class/class-wp-add-product-type-mintroute.php:72
+msgid "action"
+msgstr "المهام"
+
+#: class/class-wp-add-product-type-mintroute.php:56
 msgid "Add More Fields"
-msgstr ""
+msgstr "اضافة حقل جديد"
 
-#. Text in echo
-#: class/class-wp-single-product-mintroute.php:63
+#: class/class-wp-single-product-mintroute.php:55
 msgid "Available for reservation (pre-order) "
-msgstr ""
+msgstr "متاح للشراء و الشحن ( مسبقة الدفع )"
 
-#. Text in echo
-#: class/class-wp-single-product-mintroute.php:33
-msgid "Choose Denomination"
-msgstr ""
-
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:57
-#: class/class-wp-add-product-type-mintroute.php:103
-msgid "Denimonation"
-msgstr ""
-
-#. Text in echo
 #: class/class-wp-add-product-type-mintroute.php:58
-#: class/class-wp-add-product-type-mintroute.php:109
-msgid "Denimonation ID"
-msgstr ""
+msgid "avialable"
+msgstr "متاح للشحن"
 
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:59
+#: class/class-wp-single-product-mintroute.php:35
+msgid "Choose Denomination"
+msgstr "اختيار الفئة "
+
+#: class/class-wp-add-product-type-mintroute.php:133
+msgid "clear"
+msgstr "ازالة"
+
+#: class/class-wp-add-product-type-mintroute.php:69
+#: class/class-wp-add-product-type-mintroute.php:81
 #: class/class-wp-add-product-type-mintroute.php:115
+msgid "Denimonation"
+msgstr "الفئة"
+
+#: class/class-wp-add-product-type-mintroute.php:70
+#: class/class-wp-add-product-type-mintroute.php:87
+#: class/class-wp-add-product-type-mintroute.php:121
+msgid "Denimonation ID"
+msgstr "كود الفئة"
+
+#: class/class-wp-add-product-type-mintroute.php:71
+#: class/class-wp-add-product-type-mintroute.php:93
+#: class/class-wp-add-product-type-mintroute.php:127
 msgid "Denimonation Price"
-msgstr ""
+msgstr "سعر الفئة"
 
-#. Text in echo
-#: class/class-wp-single-product-mintroute.php:38
+#: class/class-wp-mintroute-order-complete.php:85
+msgid "Denomination Id "
+msgstr "كود الفئة"
+
+#: class/class-wp-single-product-mintroute.php:40
 msgid "Domenations"
-msgstr ""
+msgstr "الفئات"
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:3
 msgid "General Settings"
+msgstr "اعدادات عامة"
+
+#. Author URI of the plugin
+msgid "https://mostaql.com/u/mohamed_mostaq"
 msgstr ""
 
-#. Text in function
-#: class/class-wp-add-product-type-mintroute.php:1
+#. URI of the plugin
+msgid "https://www.hisms.ws/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"If you need any help just contact me on +201026051966 ( whatsapp too )  "
+"mohamedellithyfreelanc@gmail.com"
+msgstr ""
+
+#: class/class-wp-add-product-type-mintroute.php:34
 msgid "Mintroute Card"
-msgstr ""
+msgstr "بطاقات mintroute"
 
-#. Text in echo
+#: class/class-wp-mintoute-setting-page.php:26
+#: class/class-wp-mintoute-setting-page.php:27
 #: templates/wp-mintoute-show-logs.php:2
 msgid "Mintroute Logs"
-msgstr ""
+msgstr "المتابعة mintroute"
 
-#. Text in echo
+#: class/class-wp-mintoute-setting-page.php:13
+#: class/class-wp-mintoute-setting-page.php:14
+msgid "mintroute setting"
+msgstr "اعدادات mintroute"
+
 #: templates/wp-mintoute-show-logs.php:10
 msgid "Mintroute Test Api"
-msgstr ""
+msgstr "اختبار خدمة mintroute"
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:39
 msgid "Mode"
+msgstr "الحالة"
+
+#. Author of the plugin
+msgid "Mohamed Ellithy"
 msgstr ""
 
-#. Text in echo
-#: class/class-wp-single-product-mintroute.php:69
+#: class/class-wp-single-product-mintroute.php:61
 msgid "Not Available for reservation (pre-order) "
-msgstr ""
+msgstr "غير متوفر للشراء و الشحن ( مسبقة الدفع )"
 
-#. Text in echo
+#: class/class-wp-add-product-type-mintroute.php:59
+msgid "not avialable"
+msgstr "غير متوفر"
+
 #: templates/wp-mintoute-setting-page.php:18
 msgid "Password"
-msgstr ""
+msgstr "كلمة المرور"
 
-#. Text in echo
-#: class/class-wp-single-product-mintroute.php:56
-msgid "Please write the Account of your Game account . The account must be global."
-msgstr ""
+#: class/class-wp-single-product-mintroute.php:108
+msgid ""
+"Please write the Account Email of your Game account . The account must be "
+"global."
+msgstr "من فصلك قم بكتابة الايميل الخاص بحسابك فى اللعبة"
 
-#. Text in echo
+#: class/class-wp-single-product-mintroute.php:92
+#: class/class-wp-single-product-mintroute.php:124
+msgid ""
+"Please write the Account of your Game account . The account must be global."
+msgstr "من فصلك قم بكتابة كود الحساب الخاص باللعبة"
+
+#: class/class-wp-single-product-mintroute.php:135
+msgid ""
+"Please write the Account Zone of your Game account . The account must be "
+"global."
+msgstr "من فصلك قم بكتابة كود و رقم المنطقة الخاصة بحسابك فى اللعبة"
+
 #: templates/wp-mintoute-setting-page.php:43
 msgid "Production"
-msgstr ""
+msgstr "الحقيقي"
 
-#. Text in echo
 #: templates/wp-mintoute-show-logs.php:6
 msgid "Reset Logs"
-msgstr ""
+msgstr "اعادة ضبط المتابعة"
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:57
 msgid "Save Changes"
-msgstr ""
+msgstr "حفظ الاعدادات"
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:32
 msgid "Secret Key"
 msgstr ""
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:42
 msgid "Test"
-msgstr ""
+msgstr "اختبار"
 
-#. Text in echo
+#: class/class-wp-mintroute-order-complete.php:77
+msgid "Top Up status "
+msgstr "حالة الشحن"
+
+#: class/class-wp-mintroute-order-complete.php:81
+msgid "Transaction Id "
+msgstr "رقم عملية الشحن"
+
+#: class/class-wp-mintroute-order-complete.php:89
+msgid "Type Card "
+msgstr "نوع بطاقة الشحن"
+
 #: templates/wp-mintoute-setting-page.php:49
 msgid "Url"
-msgstr ""
+msgstr "الرابط"
 
-#. Text in echo
 #: templates/wp-mintoute-setting-page.php:11
 msgid "Username"
+msgstr "اسم المستخدم"
+
+#. Name of the plugin
+msgid "Woocommerce-Mintroute-Api Plug"
 msgstr ""
 
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:60
-msgid "action"
-msgstr ""
+#: class/class-wp-single-product-mintroute.php:129
+msgid "Zone ID"
+msgstr "كود المنطقة"
 
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:51
-msgid "avialable"
-msgstr ""
-
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:121
-msgid "clear"
-msgstr ""
-
-#. Text in echo
-#: class/class-wp-add-product-type-mintroute.php:52
-msgid "not avialable"
-msgstr ""
+#: class/class-wp-mintroute-order-complete.php:93
+msgid "Zone ID : "
+msgstr "كود المنطقة"
